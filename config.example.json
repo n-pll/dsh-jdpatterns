@@ -1,0 +1,17 @@
+{
+  "gateEnabled": true,
+  "languages": {
+    "java": {
+      "remoteUrl": "https://github.com/iluwatar/java-design-patterns.git",
+      "localPath": "F:\\project\\java-design-patterns",
+      "indexFile": "PATTERNS.zh.md",
+      "gate": true
+    },
+    "python": {
+      "remoteUrl": "https://github.com/faif/python-patterns.git",
+      "localPath": "D:\\path\\to\\python-patterns",
+      "indexFile": "README.md",
+      "gate": true
+    }
+  }
+}

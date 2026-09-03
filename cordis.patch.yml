@@ -1,0 +1,4 @@
+# dsh-jdpatterns（设计模式参考库）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: jdpatterns
+      name: 'dsh-jdpatterns'

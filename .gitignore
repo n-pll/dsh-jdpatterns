@@ -1,0 +1,9 @@
+# 本机依赖（junction → dsh profile node_modules，随安装脚本建立）
+node_modules/
+
+# 本机个人配置（含本地绝对路径；代码在缺失时自动回退默认值，模板见 config.example.json）
+config.json
+
+# 日志与临时文件
+*.log
+.DS_Store
